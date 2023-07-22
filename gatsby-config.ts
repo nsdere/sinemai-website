@@ -8,7 +8,7 @@ const config: GatsbyConfig = {
     siteTitle: `sinem-ai title`,
     siteTitleAlt: `sinem-ai title alt`,
     siteHeadline: `sinem-ai headline`,
-    siteUrl: `sinemaiwebsitemaster.gatsbyjs.io`,
+    siteUrl: `https://sinemaiwebsitemaster.gatsbyjs.io`,
     siteDescription: `sinem-ai site description.`,
     siteImage: `/banner.jpg`,
     siteLanguage: `en`,
