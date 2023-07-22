@@ -5,9 +5,9 @@ const shouldAnalyseBundle = process.env.ANALYSE_BUNDLE
 
 const config: GatsbyConfig = {
   siteMetadata: {
-    siteTitle: `sinem-ai title`,
-    siteTitleAlt: `sinem-ai title alt`,
-    siteHeadline: `sinem-ai headline`,
+    siteTitle: `just another ai blog`,
+    siteTitleAlt: `sinem.ai - AI Blog`,
+    siteHeadline: `Sinem's Learnings and Insights`,
     siteUrl: `https://sinemaiwebsitemaster.gatsbyjs.io`,
     siteDescription: `sinem-ai site description.`,
     siteImage: `/banner.jpg`,
