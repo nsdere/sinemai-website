@@ -62,12 +62,12 @@ const config: GatsbyConfig = {
         display: `standalone`,
         icons: [
           {
-            src: `/ponyo.png`,
+            src: `/favicon.png`,
             sizes: `192x192`,
             type: `image/png`,
           },
           {
-            src: `/ponyo.png`,
+            src: `/favicon.png`,
             sizes: `512x512`,
             type: `image/png`,
           },
